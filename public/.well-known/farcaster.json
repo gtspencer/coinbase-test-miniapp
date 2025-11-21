@@ -3,6 +3,6 @@
     "version": "1",
     "name": "Test Miniapp",
     "iconUrl": "https://0xmegaphone.com/favicon-1024.jpg",
-    "homeUrl": "https://0xmegaphone.com/"
+    "homeUrl": "https://coinbase-test-miniapp-nine.vercel.app/"
   }
 }
